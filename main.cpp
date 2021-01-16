@@ -1,7 +1,7 @@
 #include <iostream>
 #include <ctime>
 #include <pthread.h>
-#include "src/calc.h"
+#include "src/phtr.h"
 using namespace std;
 int main() {
     const int f = 10;
